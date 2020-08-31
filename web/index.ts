@@ -117,7 +117,7 @@ const markdownOptions: DropdownOption[] = [ { text: 'Plain Text', value: '0' }, 
 const imageLightOptions: DropdownOption[] = [
   { text: 'Vercel', value: 'https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg' },
   { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-black-logo.svg' },
-  { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-color-logo.svg' },
+  { text: 'Hyper', value: 'https://og.mozart409.space/logos/hyper-color-logo.svg' },
   { text: 'Amadeus', value: 'https://og.mozart409.space/logos/amadeus.svg' },
   { text: 'Logo', value: 'https://og.mozart409.space/logos/amadeus-2.svg' }
 ]
