@@ -119,7 +119,7 @@ const imageLightOptions: DropdownOption[] = [
   { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-black-logo.svg' },
   { text: 'Hyper', value: 'https://og.mozart409.space/logos/hyper-color-logo.svg' },
   { text: 'Amadeus', value: 'https://og.mozart409.space/logos/amadeus.svg' },
-  { text: 'Logo', value: 'https://og.mozart409.space/logos/amadeus-2.svg' }
+  { text: 'Logo', value: 'https://og.mozart409.space/logos/logo.png' }
 ]
 
 const imageDarkOptions: DropdownOption[] = [
